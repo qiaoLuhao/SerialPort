@@ -1,0 +1,9 @@
+D:\project\PortHelper\PortHelper\obj\Debug\PortHelper.csprojAssemblyReference.cache
+D:\project\PortHelper\PortHelper\obj\Debug\PortHelper.Form1.resources
+D:\project\PortHelper\PortHelper\obj\Debug\PortHelper.Properties.Resources.resources
+D:\project\PortHelper\PortHelper\obj\Debug\PortHelper.csproj.GenerateResource.cache
+D:\project\PortHelper\PortHelper\bin\Debug\PortHelper.exe.config
+D:\project\PortHelper\PortHelper\bin\Debug\PortHelper.exe
+D:\project\PortHelper\PortHelper\bin\Debug\PortHelper.pdb
+D:\project\PortHelper\PortHelper\obj\Debug\PortHelper.exe
+D:\project\PortHelper\PortHelper\obj\Debug\PortHelper.pdb

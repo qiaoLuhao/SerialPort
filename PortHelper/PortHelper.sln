@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortHelper", "PortHelper\PortHelper.csproj", "{A5178313-0998-4D8A-9BED-A6C20AFCEAD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5178313-0998-4D8A-9BED-A6C20AFCEAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5178313-0998-4D8A-9BED-A6C20AFCEAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5178313-0998-4D8A-9BED-A6C20AFCEAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5178313-0998-4D8A-9BED-A6C20AFCEAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF1D7F95-7CD6-447C-9FFF-CF8C3401B360}
+	EndGlobalSection
+EndGlobal
